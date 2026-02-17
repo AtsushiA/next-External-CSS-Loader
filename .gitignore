@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# IDE
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build artifacts
+*.zip
+
+# Local config
+.env

@@ -1,5 +1,7 @@
 # NExT External CSS Loader
 
+[![Try in WordPress Playground](https://img.shields.io/badge/Try%20in-WordPress%20Playground-3858e9?logo=wordpress)](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/AtsushiA/next-External-CSS-Loader/main/blueprint.json)
+
 外部URLからCSSを読み込むWordPressプラグインです。
 
 ## 機能
